@@ -1,0 +1,14 @@
+.more-on-the-way{
+    max-width: 80vw;
+
+}
+.home-div{
+    background: rgb(179,148,33);
+    background: linear-gradient(325deg, rgba(179,148,33,1) 0%, rgba(189,99,99,1) 100%); 
+    height: 100vh;
+    
+}
+.my-music-link{
+    color: rgb(151, 12, 14);
+    font-size: 30px;
+}
